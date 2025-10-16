@@ -1,9 +1,5 @@
 function greet() {
-  return "Hello from Alice (feature1)!";
-}
-module.exports = { greet };
-function greet() {
-  return "Hello from Bob (feature2)!";
+  return "Hello — Alice & Bob updated this!";
 }
 module.exports = { greet };
 
